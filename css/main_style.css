@@ -42,7 +42,7 @@ Here is the content of this css file
 	width:100%;
 	height:100%;
 	text-align:center;
-	background:#f03434;
+	background:#7F74C6;
 }
 .lx-loader div{
 	color:#FFFFFF;
@@ -83,7 +83,7 @@ Here is the content of this css file
 	font-family:'Open Sans Condensed';
 	font-size:30px;
 	font-weight:700;
-	background:#f03434;
+	background:#7F74C6;
 	color:#FFFFFF;
 }
 
@@ -106,10 +106,10 @@ Here is the content of this css file
 }
 .lx-main-menu ul li a:hover{
 	padding:8px;
-	background:#f03434;
+	background:#7F74C6;
 }
 .lx-main-menu ul li a.active{
-	background:#f03434;
+	background:#7F74C6;
 }
 .lx-main-menu ul li a i{
 	position:relative;
@@ -243,11 +243,11 @@ Here is the content of this css file
 }
 .lx-body-menu > ul > li:hover > a::after{
 	width:100%;
-	background:#f03434;
+	background:#7F74C6;
 }
 .lx-body-menu > ul > li > a.active::after{
 	width:100%;
-	background:#f03434;
+	background:#7F74C6;
 }
 .lx-body-submenu{
 	position:absolute;
@@ -287,9 +287,9 @@ Here is the content of this css file
 	}
 }
 .lx-body-submenu > ul > li > a:hover{
-	background:#f03434;
+	background:#7F74C6;
 	color:#FFFFFF;
-	border-bottom:1px solid #f03434;
+	border-bottom:1px solid #7F74C6;
 }
 @media(max-width:1023px){
 	.lx-body-submenu > ul > li > a:hover{
@@ -331,7 +331,7 @@ Here is the content of this css file
 	color:#424242;
 }
 .lx-resume-name ul li a:hover{
-	color:#f03434;
+	color:#7F74C6;
 }
 .lx-resume-bloc{
 	margin-top:50px;
@@ -372,7 +372,7 @@ Here is the content of this css file
 	border-radius:4px;
 }
 .lx-resume-skills span:hover{
-	background:#f03434;
+	background:#7F74C6;
 }
 .lx-resume-language p ins{
 	float:right;
@@ -380,7 +380,7 @@ Here is the content of this css file
 	width:15px;
 	height:15px;
 	margin-left:10px;
-	background:#f03434;
+	background:#7F74C6;
 	border-radius:2px;
 }
 @media(max-width:1024px){
@@ -420,13 +420,13 @@ Here is the content of this css file
 	left:0px;
 	width:10px;
 	height:10px;
-	background:#f03434;
+	background:#7F74C6;
 	border-radius:50%;
 }
 .lx-resume-experience ul li h4 ins{
 	float:right;
 	font-weight:300;
-	color:#f03434;
+	color:#7F74C6;
 }
 @media(max-width:768px){
 	.lx-resume-experience ul li h4 ins{
@@ -505,7 +505,7 @@ Here is the content of this css file
 	right:15px;
 	display:inline-block;
 	padding:3px 5px;
-	background:#f03434;
+	background:#7F74C6;
 	color:#FFFFFF;
 	border-radius:2px;
 }
@@ -517,7 +517,7 @@ Here is the content of this css file
 	color:#424242;
 }
 .lx-blog-item:hover h2 a{
-	color:#f03434;
+	color:#7F74C6;
 }
 .lx-blog-item-text p{
 	line-height:22px;
@@ -533,7 +533,7 @@ Here is the content of this css file
 	font-weight:700;
 	text-transform:uppercase;
 	color:#424242;
-	border-bottom:2px solid #f03434;
+	border-bottom:2px solid #7F74C6;
 }
 @media(max-width:768px){
 	.lx-blog-item-text > a{
@@ -567,9 +567,9 @@ Here is the content of this css file
 	border-radius:2px;
 }
 .lx-blog-pagination-desktop ul li a.active{
-	background:#f03434;
+	background:#7F74C6;
 	color:#FFFFFF;
-	border:1px solid #f03434;
+	border:1px solid #7F74C6;
 }
 .lx-blog-pagination-mobile{
 	display:none;
@@ -709,7 +709,7 @@ Here is the content of this css file
 	margin-left:20px;
 	padding:30px 20px;
 	background:#F5F5F5;
-	border-left:3px solid #f03434;
+	border-left:3px solid #7F74C6;
 	border-radius:4px;
 }
 @media(max-width:767px){
@@ -806,7 +806,7 @@ Here is the content of this css file
 	display:inline-block;
 	padding:1px 10px;
 	font-size:30px;
-	background:#f03434;
+	background:#7F74C6;
 	color:#FFFFFF;
 	cursor:pointer;
 }
@@ -916,7 +916,7 @@ Here is the content of this css file
 	display:inline-block;
 	margin-bottom:10px;
 	font-size:24px;
-	color:#f03434;
+	color:#7F74C6;
 }
 .lx-single-post-author p{
 	margin-left:120px;
@@ -1059,7 +1059,7 @@ Here is the content of this css file
 	font-family:'Muli';
 	font-size:16px;
 	font-weight:700;
-	background:#f03434;
+	background:#7F74C6;
 	color:#FFFFFF;
 	border-radius:4px;
 	cursor:pointer;
@@ -1090,7 +1090,7 @@ Here is the content of this css file
 .lx-single-post-comment-item > a{
 	display:inline-block;
 	font-size:20px;
-	color:#f03434;
+	color:#7F74C6;
 }
 .lx-single-post-comment-item > span{
 	display:block;
@@ -1235,7 +1235,7 @@ Here is the content of this css file
 	right:15px;
 	display:inline-block;
 	padding:3px 5px;
-	background:#f03434;
+	background:#7F74C6;
 	color:#FFFFFF;
 	border-radius:2px;
 }
@@ -1291,7 +1291,7 @@ i.lx-add{
 	right:10px;
 	display:none;
 	padding:5px;
-	background:#f03434;
+	background:#7F74C6;
 	color:#FFFFFF;
 	border-radius:2px;
 	cursor:pointer;
@@ -1337,7 +1337,7 @@ i.lx-add{
 	color:#424242;
 }
 .lx-latest-posts-item-text h3 a:hover{
-	color:#f03434;
+	color:#7F74C6;
 }
 .lx-latest-posts-item-text p{
 	margin-top:5px;
@@ -1369,7 +1369,7 @@ i.lx-add{
 	right:0px;
 	bottom:0px;
 	padding:5px;
-	background:#f03434;
+	background:#7F74C6;
 	color:#FFFFFF;
 	border:3px solid #F8F8F8;
 	border-radius:6px;
@@ -1391,7 +1391,7 @@ i.lx-add{
 	border-radius:2px;
 }
 .lx-tags ul li a:hover{
-	background:#f03434;
+	background:#7F74C6;
 }
 
 /* Sidebar Social Network */
@@ -1405,7 +1405,7 @@ i.lx-add{
 	color:#858585;
 }
 .lx-sidebar-social-network ul li a:hover{
-	color:#f03434;
+	color:#7F74C6;
 }
 
 /* Sidebar Links List */
@@ -1441,7 +1441,7 @@ i.lx-add{
 	color:#828282;
 }
 .lx-sidebar-newsletter p span{
-	color:#f03434;
+	color:#7F74C6;
 }
 .lx-sidebar-newsletter form{
 	position:relative;
@@ -1465,7 +1465,7 @@ i.lx-add{
 	right:3px;
 	padding:3px 13px;
 	font-size:24px;
-	background:#f03434;
+	background:#7F74C6;
 	color:#FFFFFF;
 	border-radius:4px;
 	cursor:pointer;
