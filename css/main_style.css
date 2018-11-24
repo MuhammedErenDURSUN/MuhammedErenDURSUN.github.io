@@ -413,7 +413,8 @@ Here is the content of this css file
 	font-size:16px;
 	text-transform:uppercase;
 }
-.lx-resume-experience ul li h4::before{
+
+.lx-resume-experience ul li:not(.point-remove) h4::before{
 	content:"";
 	position:absolute;
 	top:3px;
@@ -423,6 +424,7 @@ Here is the content of this css file
 	background:#f03434;
 	border-radius:50%;
 }
+
 .lx-resume-experience ul li h4 ins{
 	float:right;
 	font-weight:300;
