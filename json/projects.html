@@ -1,14 +1,31 @@
 <!DOCTYPE html>
 <html>
+<head>
+    <meta charset="UTF-8"/>
+</head>
 <body>
 
 
-<p id="demo"></p>
+<p id="data"></p>
 
-<script>
-    var obj = { name: "John", age: 30, city: "New York" };
-    var myJSON = JSON.stringify(obj);
-    document.getElementById("demo").innerHTML = myJSON;
+<script charset="UTF-8">
+    let projectNameList = ["OTONOM ARABA YARIŞMASI","EĞİTSEL MOBİL UYGULAMA","MATERYAL PAYLAŞIM PLATFORMU","MOBİL KAMPÜS UYGULAMASI","MOBİL UYGULAMA KÜTÜPHANESİ","WINDOWS MASAÜSTÜ UYGULAMASI","MOBİL KONTROL UYGULAMASI","OPTİK FORM UYGULAMASI","SOYUT MATEMATİK","SOSYAL KAMPÜS PLATFORMU","SINIF YÖNETİM PLATFORMU"];
+    let projectexplanationList = ["Yapay Zeka & Deep Learning","Mobil Uygulama & Node.js API","Web Sitesi & Mobil Uygulama","Mobil Uygulama & Web Servis","Mobil Uygulama & Node.js API","WINDOWS MASAÜSTÜ UYGULAMASI","MOBİL KONTROL UYGULAMASI","Masaüstü Uygulaması","Akıllı Tahta & Flash","Web Sitesi","Web Sitesi"];
+    let projectUrl =  "https://img.icons8.com/color/4x/";
+    var projects = [];
+
+    for (var i=0;i<projectNameList.length;i++){
+        projects.push(
+            {
+                "projectName" : projectNameList[i],
+                "explanation" : projectexplanationList[i],
+                "projectImage" : projectUrl+(i%10).toString()+"-circle.png"
+            }
+        )
+
+    }
+    let myJSON = JSON.stringify(projects);
+    document.getElementById("data").innerHTML = myJSON;
 </script>
 
 </body>
