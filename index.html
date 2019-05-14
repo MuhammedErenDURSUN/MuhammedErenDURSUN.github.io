@@ -244,6 +244,21 @@
 								<div class="lx-resume-experience">
 									<ul>
 										<li>
+											<h4>SAĞLIĞIM CEPTE MOBIL UYGULAMA</h4>
+											<span>Ocak 2019 - Mayıs 2019</span><span style="color:#ED4C67"> | Android, iOS</span>
+											<p>Wunder Innovation Studio çatısı altında Anadolu Sigorta için kişilerin sağlık poliçelerine ve sağlığına ait tüm detaylara tek bir yerden ulaşmasını sağlayan, sağlık kurumlarının harita üzerinde gösterildiği ve sağlık kayıtlarının grafiklerle takibine yönelik bir sağlık uygulamasının geliştirilmesi.</p>
+										</li>
+										<li>
+											<h4>UÇUŞUM GÜVENDE MOBIL UYGULAMA</h4>
+											<span>Ocak 2019 - Mayıs 2019</span><span style="color:#ED4C67"> | Android, iOS</span>
+											<p>Wunder Innovation Studio çatısı altında Anadolu Sigorta için kişi ve uçuş bilgilerinin girildiği ve uçuşun güvence altına alındığı bir uçuş sigortalama uygulamasının geliştirilmesi.</p>
+										</li>
+										<li>
+											<h4>QUAKEGUARD</h4>
+											<span>Ocak 2019 - Mayıs 2019</span><span style="color:#ED4C67"> | Node.js, RESTful API, Mongo DB, Socket.IO, MQTT Broker - Client, Angular </span>
+											<p>Deprem başlangıcında yapılması gerekenlerin önceden planlanması, uyarı mekanizmasının oluşturulması, olası zararların büyük ölçüde önlenmesine yönelik bilgilendirme yapılması hedefiyle geliştirme sürecinde olan bir Wunder Innovation Studio entegre uygulaması.</p>
+										</li>
+										<li>
 											<h4>TÜBİTAK Proje Yarışması</h4>
 											<span>Ocak 2018 - Ekim 2018</span><span style="color:#ED4C67"> | Python, Raspberry Pi, Deep Learning & Machine Learning</span>
 											<p>AIBA (Artifical Intelligence Based Automobile) isimli projem kapsamında, TÜBİTAK 2242-Öncelikli Alanlarda Proje Yarışması için Yapay Zeka Temelli Araba geliştirilmesi.</p>
@@ -258,12 +273,12 @@
 											<span>Ekim 2017 - Ocak 2018</span><span style="color:#ED4C67"> | PHP, MySQL, JavaScript, Kotlin, Swift </span>
 											<p>Öğretmenlerin, içeriklerini(video, resim, doküman, ses) düzenlemesini, materyaller geliştirmesini ve yayınlamasını amaçlayan platformun geliştirilmesi.</p>
 										</li>
-										<li>
+										<li class="more-project" style="display:none;">
 											<h4>MOBİL KAMPÜS UYGULAMASI</h4>
 											<span>Aralık 2016 - Temmuz 2017</span><span style="color:#ED4C67"> | Kotlin, Swift, PHP, MySQL, Android, iOS, Web Servis</span>
 											<p>Amasya Üniversitesi için Android ve iOS platformlarına mobil uygulama geliştirilmesi ve yayınlanması.</p>
 										</li>
-										<li>
+										<li class="more-project" style="display:none;">
 											<h4>MOBİL UYGULAMA KÜTÜPHANESİ</h4>
 											<span>Kasım 2015 - Haziran 2016</span><span style="color:#ED4C67"> | Kotlin, Java, Swift, Objective-C, Node.js API </span>
 											<p>Mobil Uygulamalarda ve Web Servis tabanlı çalışmalarda kullanılmak üzere "Login, Signup, AutoLogin, Account Manager, Providers, JSON Client, Post-Get, Database Manager" gibi alt kütüphanelerin sürekli kullanımını kolaylaştırmak amacı ile geliştirilmiş bir üst kütüphanenin geliştirilmesi.</p>
@@ -344,9 +359,12 @@
 		<script src="js/script.js"></script>
 		<script type="text/javascript">
 		$('#more').click(function(){
-		 document.getElementsByClassName('more-project')[0].style.display = "block";
-		 document.getElementsByClassName('more-project')[1].style.display = "block";
 		 document.getElementById('more').style.display = "none";
+			var x = document.getElementsByClassName("more-project");
+			var i;
+			for (i = 0; i < x.length; i++) {
+				x[i].style.display = "block";
+			}
 		});
 
 
