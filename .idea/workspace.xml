@@ -19,13 +19,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="466">
-              <caret line="257" column="151" selection-start-line="257" selection-start-column="151" selection-end-line="257" selection-end-column="151" />
+            <state relative-caret-position="653">
+              <caret line="94" column="38" lean-forward="true" selection-start-line="94" selection-start-column="38" selection-end-line="94" selection-end-column="38" />
               <folding>
-                <element signature="n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#h2#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#li#3;n#ul#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#4;n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#1;n#div#0;n#div#3;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#span#1;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#3;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#1;n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#3;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -85,6 +85,11 @@
             <path>
               <item name="MuhammedErenDURSUN.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="MuhammedErenDURSUN.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MuhammedErenDURSUN.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MuhammedErenDURSUN.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -147,18 +152,21 @@
       <workItem from="1557787023838" duration="811000" />
       <workItem from="1557789225175" duration="1391000" />
       <workItem from="1557816401426" duration="1206000" />
-      <workItem from="1557818286132" duration="658000" />
+      <workItem from="1557818286132" duration="924000" />
+      <workItem from="1557822309917" duration="62000" />
+      <workItem from="1557822891202" duration="446000" />
+      <workItem from="1557827738393" duration="51000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18314000" />
+    <option name="totallyTimeSpent" value="19139000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="959" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25213677" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26129428" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -213,13 +221,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="257" column="151" selection-start-line="257" selection-start-column="151" selection-end-line="257" selection-end-column="151" />
+        <state relative-caret-position="653">
+          <caret line="94" column="38" lean-forward="true" selection-start-line="94" selection-start-column="38" selection-end-line="94" selection-end-column="38" />
           <folding>
-            <element signature="n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#h2#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#li#3;n#ul#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#4;n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#div#0;n#div#3;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#span#1;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#3;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#1;n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#3;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
