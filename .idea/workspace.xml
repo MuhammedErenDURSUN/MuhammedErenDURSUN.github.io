@@ -2,8 +2,76 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd4f8458-9f59-4630-b69e-f5bfa5de69be" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/img/projects/aiba/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/projects/aiba/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/projects/material/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/projects/material/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/projects/material/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/projects/mobilecampus/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/projects/mobilecampus/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/projects/mobilecampus/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/video/material.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/campusmobile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/material.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MED_Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Muhammed_Eren DURSUN_CV.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/document/Muhammed_Eren_DURSUN_CV.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aiba.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/aiba.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/blog1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/blog2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/blog4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/blog5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/blog6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main_style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main_style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/index1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/index3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/projects/mobileducation/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/projects/mobileducation/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/projects/mobileducation/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/projects/mobileducation/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/projects/mobileducation/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/projects/mobileducation/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/aiba/video.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/assets/video/aiba.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/anacondablog.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/main/blog/anacondablog.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/androstudioblog.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/main/blog/androstudioblog.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/etcher.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/main/blog/etcher.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/image10.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/main/portfolio/mobilecampus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/image11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/image12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/image13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/image14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/image2.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/main/portfolio/material.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/image4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/main/portfolio/aiba.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/image8.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/main/portfolio/mobilelibrary.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/image9.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/main/portfolio/mobileeducation.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/jupyterblog.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/main/blog/jupyterblog.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/keras_to_tfblog.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/main/blog/keras_to_tfblog.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/library/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/projects/mobilelibrary/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/library/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/projects/mobilelibrary/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/library/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/projects/mobilelibrary/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/library/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/projects/mobilelibrary/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/library/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/projects/mobilelibrary/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/library/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/projects/mobilelibrary/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/library/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/projects/mobilelibrary/7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/nvidia-settings.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/main/blog/nvidia-settings.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/opencvblog.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/main/blog/opencvblog.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pythonblog.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/main/blog/pythonblog.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/software.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/main/blog/software.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ubuntublog.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/main/blog/ubuntublog.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/masonry.pkgd.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/masonry.pkgd.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile1.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/librarymobile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile3.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/educationalmobile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/portfolio2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/portfolio3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/single-post2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/single-post3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/single-post4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/single-post5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ubuntu_install.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/ubuntu_install.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,31 +84,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/portfolio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="521">
-              <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
-              <folding>
-                <element signature="n#style#0;n#h2#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#3;n#ul#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#4;n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#1;n#div#0;n#div#3;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#span#1;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#3;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#1;n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#3;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#1;n#li#1;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#3;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#1;n#li#2;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#3;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="557">
+              <caret line="124" column="72" selection-start-line="124" selection-start-column="45" selection-end-line="124" selection-end-column="72" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/main_style.css">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/portfolio/campusmobile.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="870">
-              <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
+            <state relative-caret-position="614">
+              <caret line="108" column="41" lean-forward="true" selection-start-line="108" selection-start-column="41" selection-end-line="108" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -62,15 +119,20 @@
       <list>
         <option value="$PROJECT_DIR$/blog3.html" />
         <option value="$PROJECT_DIR$/aiba.html" />
-        <option value="$PROJECT_DIR$/portfolio.html" />
         <option value="$PROJECT_DIR$/json/projects.html" />
-        <option value="$PROJECT_DIR$/css/main_style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/projects/mobile1.html" />
+        <option value="$PROJECT_DIR$/portfolio/educationalmobile.html" />
+        <option value="$PROJECT_DIR$/portfolio/aiba.html" />
+        <option value="$PROJECT_DIR$/css/main_style.css" />
+        <option value="$PROJECT_DIR$/portfolio.html" />
+        <option value="$PROJECT_DIR$/portfolio/material.html" />
+        <option value="$PROJECT_DIR$/portfolio/campusmobile.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="y" value="31" />
     <option name="width" value="1680" />
     <option name="height" value="959" />
   </component>
@@ -79,7 +141,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -87,10 +148,52 @@
               <item name="MuhammedErenDURSUN.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="MuhammedErenDURSUN.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MuhammedErenDURSUN.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MuhammedErenDURSUN.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MuhammedErenDURSUN.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MuhammedErenDURSUN.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MuhammedErenDURSUN.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MuhammedErenDURSUN.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MuhammedErenDURSUN.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MuhammedErenDURSUN.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MuhammedErenDURSUN.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MuhammedErenDURSUN.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="video" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MuhammedErenDURSUN.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MuhammedErenDURSUN.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MuhammedErenDURSUN.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MuhammedErenDURSUN.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -100,11 +203,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/projects/mobilecampus" />
+      <recent name="$PROJECT_DIR$/portfolio" />
+      <recent name="$PROJECT_DIR$/assets/img/projects/material" />
+      <recent name="$PROJECT_DIR$/assets/img/projects/aiba" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/video" />
+      <recent name="$PROJECT_DIR$/assets/img/projects/material" />
+      <recent name="$PROJECT_DIR$/assets/img/projects/aiba" />
+      <recent name="$PROJECT_DIR$/assets/img/main/portfolio" />
+      <recent name="$PROJECT_DIR$/assets/img/main/blog" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -151,18 +262,41 @@
       <workItem from="1557822309917" duration="62000" />
       <workItem from="1557822891202" duration="446000" />
       <workItem from="1557827738393" duration="318000" />
-      <workItem from="1557844439482" duration="154000" />
+      <workItem from="1557844439482" duration="323000" />
+      <workItem from="1557857776650" duration="434000" />
+      <workItem from="1557944381525" duration="7511000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19560000" />
+    <option name="totallyTimeSpent" value="27674000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="959" extended-state="0" />
+    <frame x="0" y="31" width="1680" height="959" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26434678" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26702833" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298731" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26702833" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -181,62 +315,194 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blog3.html" />
-    <entry file="file://$PROJECT_DIR$/mobile1.html">
+    <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/aiba.html">
+    <entry file="file://$PROJECT_DIR$/MED_Logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/projects/mobilelibrary/2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/projects/mobilelibrary/3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/projects/mobilelibrary/4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/projects/mobilelibrary/5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/projects/mobilelibrary/6.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/projects/mobilelibrary/7.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/librarymobile.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1605">
-          <caret line="107" column="87" selection-start-line="107" selection-start-column="87" selection-end-line="107" selection-end-column="87" />
+        <state relative-caret-position="143">
+          <caret line="90" column="24" selection-start-line="90" selection-start-column="24" selection-end-line="90" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/projects/mobilelibrary/1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/ubuntu_install.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="37" column="42" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/projects/mobileducation/1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/projects/mobileducation/2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/projects/mobileducation/3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/projects/mobileducation/6.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/main/blog/anacondablog.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/main/blog/etcher.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/image12.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/image13.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/image14.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/kariyer.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/main/blog/keras_to_tfblog.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/main/blog/nvidia-settings.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/main/blog/opencvblog.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/main/blog/pythonblog.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/main/blog/androstudioblog.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/main/blog/software.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/main/blog/ubuntublog.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/main/portfolio/material.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/main/portfolio/aiba.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/main/portfolio/mobilelibrary.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/main/portfolio/mobileeducation.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/image11.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/main/portfolio/mobilecampus.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/main/portfolio/abstractmath.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/profile.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/background.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/oval.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/projects/aiba/20180330_075335.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/projects/aiba/2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/projects/aiba/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/projects/material/3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/projects/material/2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/educationalmobile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2248">
+          <caret line="171" column="39" selection-start-line="171" selection-start-column="39" selection-end-line="171" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/aiba.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/material.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="130" column="57" selection-start-line="130" selection-start-column="57" selection-end-line="130" selection-end-column="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2505">
-          <caret line="167" column="58" selection-start-line="167" selection-start-column="58" selection-end-line="167" selection-end-column="58" />
+        <state relative-caret-position="557">
+          <caret line="124" column="72" selection-start-line="124" selection-start-column="45" selection-end-line="124" selection-end-column="72" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/404.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/json/projects.html">
+    <entry file="file://$PROJECT_DIR$/portfolio/campusmobile.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
-          <folding>
-            <element signature="n#style#0;n#h2#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#3;n#ul#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#4;n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#div#3;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#span#1;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#3;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#3;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#li#1;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#3;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#li#2;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#3;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main_style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
+        <state relative-caret-position="614">
+          <caret line="108" column="41" lean-forward="true" selection-start-line="108" selection-start-column="41" selection-end-line="108" selection-end-column="41" />
         </state>
       </provider>
     </entry>
