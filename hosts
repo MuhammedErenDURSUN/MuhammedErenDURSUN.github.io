@@ -4,9 +4,13 @@
 # localhost is used to configure the loopback interface
 # when the system is booting.  Do not change this entry.
 ##
-127.0.0.1	localhost
-255.255.255.255	broadcasthost
-::1             localhost
+127.0.0.1 localhost.localdomain localhost
+::1 localhost6.localdomain6 localhost6
+192.168.1.1 router.asus.com
+192.168.1.1 www.asusnetwork.net
+192.168.121.70 ntp01.mvp.tivibu.com.tr
+192.168.121.71 ntp02.mvp.tivibu.com.tr
+0.0.0.0 adclick.g.doublecklick.net
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 ads-fa.spotify.com
 0.0.0.0 analytics.spotify.com
